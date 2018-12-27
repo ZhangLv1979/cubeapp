@@ -1,0 +1,1 @@
+cordova run android --release -- --keystore=./release-key.keystore --storePassword=114416 --alias=magiccube --password=114416
